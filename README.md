@@ -15,7 +15,9 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ## Overview
 
 ### Screenshot
-![desktop-design]
+
+![Desktop design](https://user-images.githubusercontent.com/104015866/202499729-84e35867-f14a-40d7-ae4e-dfbff802bd41.png)
+
 
 ### Links
 
