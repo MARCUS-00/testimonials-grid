@@ -1,0 +1,495 @@
+body{
+    min-height: 100vh;
+    max-width: 100vw;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    background-color: hsl(0, 0%, 81%) ;
+}
+
+/* -------------Daniel Clifford-------------- */
+
+.daniel-container{
+    height:31rem;
+    max-width: 100%;
+    background-color: hsl(263, 55%, 52%);
+    border-radius: 7px;
+}
+
+.daniel-content{
+    padding: 6% 8%;
+}
+
+.quotation{
+    float:right;
+    padding-right: 6%;
+}
+
+.daniel-pic{
+    height: 40px;
+    border-radius: 100%;
+    border: 2px solid #A775F1;
+    float: left;
+}
+
+.daniel-name{
+    font-size: 1rem;
+    font-weight: 600;
+    color: hsl(0, 0%, 81%);
+    margin: 0;
+    padding-left: 3.7rem;
+    margin-top: 0.2rem;
+}
+
+.daniel-verified{
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: hsl(0, 0%, 81%);
+    margin: 0;
+    padding-left: 3.7rem;
+    opacity: 50%;
+}
+
+.daniel-cont1{
+    position: absolute;
+    text-align: left;
+    width: 83%;
+    font-size: 24px;
+    margin: 1.3rem 0;
+    font-weight: 600;
+    color: hsl(210, 46%, 95%);
+}
+
+.daniel-cont2{
+    position: relative;
+    margin: 13rem 0 0 0 ;
+    text-align: left;
+    opacity: 50%;
+    color: hsl(0, 0%, 81%);
+    font-size: 1rem;   
+}
+
+
+/* ------------------Jonathan Walters------------------------ */
+
+.jonathan-container{
+    margin-top: 1rem;
+    height:16rem;
+    max-width: 100%;
+    background-color: hsl(217, 19%, 35%);
+    border-radius: 7px
+}
+
+.jonathan-content{
+    padding: 6% 8%;
+}
+
+.jonathan-pic{
+    height: 40px;
+    border-radius: 100%;
+    border: 2px solid hsl(217, 19%, 35%);
+    float: left;
+}
+
+.jonathan-name{
+    font-size: 1rem;
+    font-weight: 600;
+    color: hsl(0, 0%, 81%);
+    margin: 0;
+    padding-left: 3.7rem;
+    margin-top: 0.2rem;
+}
+
+.jonathan-verified{
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: hsl(0, 0%, 81%);
+    margin: 0;
+    padding-left: 3.7rem;
+    opacity: 50%;
+}
+
+.jonathan-cont1{
+    text-align: left;
+    font-size: 24px;
+    margin: 1.3rem 0;
+    font-weight: 600;
+    color: hsl(210, 46%, 95%);
+}
+
+.jonathan-cont2{
+    text-align: left;
+    color: hsl(210, 46%, 95%);
+    font-size: 0.9rem;
+    font-weight: 500;
+    opacity: 50%;   
+}
+
+
+/* ------------------ Jeanette Harmon-------------------- */
+
+.jeanette-container{
+    margin-top: 1rem;
+    height:16rem;
+    max-width: 100%;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 7px
+}
+
+.jeanette-content{
+    padding: 6% 8%;
+}
+
+.jeanette-pic{
+    height: 40px;
+    border-radius: 100%;
+    border: 2px solid hsl(0, 0%, 100%);
+    float: left;
+}
+
+.jeanette-name{
+    font-size: 1rem;
+    font-weight: 600;
+    color: hsl(217, 19%, 35%);
+    margin: 0;
+    padding-left: 3.7rem;
+    margin-top: 0.2rem;
+}
+
+.jeanette-verified{
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: hsl(217, 19%, 35%);
+    margin: 0;
+    padding-left: 3.7rem;
+    opacity: 50%;
+}
+
+.jeanette-cont1{
+    text-align: left;
+    font-size: 24px;
+    margin: 1.3rem 0;
+    font-weight: 600;
+    color: hsl(217, 19%, 35%);
+}
+
+.jeanette-cont2{
+    text-align: left;
+    color: hsl(219, 29%, 14%);
+    font-size: 0.96rem;
+    font-weight: 500;
+    opacity: 50%;   
+}
+
+
+/* ------------------ Patrick Abrams-------------------- */
+
+.patrick-container{
+    margin-top: 1rem;
+    height:27rem;
+    max-width: 100%;
+    background-color: hsl(219, 29%, 14%);
+    border-radius: 7px
+}
+
+.patrick-content{
+    padding: 6% 8%;
+}
+
+.patrick-pic{
+    height: 40px;
+    border-radius: 100%;
+    border: 2px solid hsl(219, 29%, 14%);
+    float: left;
+}
+
+.patrick-name{
+    font-size: 1rem;
+    font-weight: 600;
+    color: hsl(0, 0%, 81%);
+    margin: 0;
+    padding-left: 3.7rem;
+    margin-top: 0.2rem;
+}
+
+.patrick-verified{
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: hsl(0, 0%, 81%);
+    margin: 0;
+    padding-left: 3.7rem;
+    opacity: 50%;
+}
+
+.patrick-cont1{
+    text-align: left;
+    font-size: 1.45rem;
+    margin: 1.3rem 0;
+    font-weight: 600;
+    color: hsl(0, 0%, 81%);
+}
+
+.patrick-cont2{
+    text-align: left;
+    color: hsl(210, 46%, 95%);
+    font-size: 0.9rem;
+    font-weight: 500;
+    opacity: 50%;   
+}
+
+
+/* ------------------ Kira Whittle-------------------- */
+
+.kira-container{
+    margin-top: 1rem;
+    height:29rem;
+    max-width: 100%;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 7px
+}
+
+.kira-content{
+    padding: 6% 8%;
+}
+
+.kira-pic{
+    height: 40px;
+    border-radius: 100%;
+    border: 2px solid hsl(0, 0%, 100%);
+    float: left;
+}
+
+.kira-name{
+    font-size: 1rem;
+    font-weight: 600;
+    color: hsl(217, 19%, 35%);
+    margin: 0;
+    padding-left: 3.7rem;
+    margin-top: 0.2rem;
+}
+
+.kira-verified{
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: hsl(217, 19%, 35%);
+    margin: 0;
+    padding-left: 3.7rem;
+    opacity: 50%;
+}
+
+.kira-cont1{
+    text-align: left;
+    font-size: 1.45rem;
+    margin: 1.3rem 0;
+    font-weight: 600;
+    color: hsl(217, 19%, 35%);
+}
+
+.kira-cont2{
+    text-align: left;
+    color: hsl(217, 19%, 35%);
+    font-size: 0.9rem;
+    font-weight: 500;
+    opacity: 70%;   
+}
+
+/* ------------------------- Desktop Screen ---------------------- */
+
+@media only screen and (min-width:1024px) {
+    body{
+        min-height: 100vh;
+        max-width: 100vw;
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        background-color: hsl(0, 0%, 81%) ;
+        
+    }
+
+    .main{
+        min-height:100vh;
+        max-width: 100vw;
+        margin: auto;
+        display:grid;
+        grid-template-columns: repeat(4, 15rem);
+        grid-template-rows: 15rem;
+        grid-row-gap: 1rem;
+        grid-column-gap:1rem;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        justify-items: center;
+    }
+
+/* -------------Daniel Clifford-------------- */
+    .daniel-container{
+        height:15rem;
+        width: 30rem;
+        grid-column:1/3 ;   
+    }
+    
+    .daniel-content{
+        padding: 1rem 1.5rem;
+    }
+
+    .daniel-pic{
+        height: 30px;
+    }
+
+    .daniel-name{
+        font-size:0.8rem;
+        padding-left: 3rem;
+    }
+
+    .daniel-verified{
+        font-size:0.7rem;
+        padding-left: 3rem;
+    }
+
+    .daniel-cont1{
+        position: absolute;
+        width:28rem;
+        font-size: 1rem;
+        margin: 1rem 0 0 0;
+    }
+
+    .daniel-cont2{
+        font-size: 12px;
+        margin-top: 5.5rem;        
+    }
+
+
+/* ------------------Jonathan Walters------------------------ */
+
+    .jonathan-container{
+        height:15rem;
+        margin-top: 0;
+        width: 14rem;
+        grid-column: 3/4 ;
+    }
+
+    .jonathan-pic{
+        height: 30px;
+    }
+
+    .jonathan-name{
+        font-size:0.8rem;
+        padding-left: 3rem;
+    }
+
+    .jonathan-verified{
+        font-size:0.7rem;
+        padding-left: 3rem;
+    }
+
+    .jonathan-cont1{
+        margin-top: 0.7rem;
+        margin-bottom: 0.7rem;
+        font-size: 1rem;
+    }
+
+    .jonathan-cont2{
+        margin-top: 0rem;
+        font-size: 0.8rem;
+    }
+
+
+/* ------------------ Jeanette Harmon-------------------- */
+
+    .jeanette-container{
+        margin-top: 0;
+        height: 15rem;
+        width: 14rem;
+        grid-column: 1/2;
+
+    }
+
+    .jeanette-pic{
+        height: 30px;
+    }
+
+    .jeanette-name{
+        font-size:0.8rem;
+        padding-left: 3rem;
+    }
+
+    .jeanette-verified{
+        font-size:0.7rem;
+        padding-left: 3rem;
+    }
+
+    .jeanette-cont1{
+        margin-top: 0.7rem;
+        margin-bottom: 0.7rem;
+        font-size: 1rem;
+    }
+
+    .jeanette-cont2{
+        margin-top: 0rem;
+        font-size: 0.8rem;
+    }
+
+
+/* ------------------ Patrick Abrams-------------------- */
+
+    .patrick-container{
+        margin-top: 0;
+        height: 15rem;
+        width: 30rem;
+        grid-column: 2/4;
+    }
+
+    .patrick-pic{
+        height: 30px;
+    }
+
+    .patrick-name{
+        font-size:0.8rem;
+        padding-left: 3rem;
+    }
+
+    .patrick-verified{
+        font-size:0.7rem;
+        padding-left: 3rem;
+    }
+
+    .patrick-cont1{
+        font-size: 1rem;
+        margin: 1rem 0 0 0;
+    }
+
+    .patrick-cont2{
+        font-size: 12px;
+    }
+
+
+/* ------------------ Kira Whittle-------------------- */
+
+    .kira-container{
+        margin-top: 0;
+        height: 31rem;
+        width: 16rem;
+        grid-column: 4/5;
+        grid-row: 1/3;
+    }
+
+    .kira-pic{
+        height: 35px;
+    }
+
+    .kira-name{
+        font-size:0.9rem;
+        padding-left: 3rem;
+    }
+
+    .kira-verified{
+        font-size:0.8rem;
+        padding-left: 3rem;
+    }
+
+    .kira-cont1{
+        font-size: 1.3rem;
+        margin: 1rem 0 0 0;
+    }
+
+    .kira-cont2{
+        font-size: 13px;
+    }
+    
+}
