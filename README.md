@@ -21,8 +21,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: ( https://github.com/MARCUS-00/Fylo-data-storage-component )
-- Live Site URL: ( https://marcus-00.github.io/Fylo-data-storage-component/ )
+- Solution URL: ( https://github.com/MARCUS-00/testimonials-grid )
+- Live Site URL: ( https://marcus-00.github.io/testimonials-grid/ )
 
 ### Built with
 
